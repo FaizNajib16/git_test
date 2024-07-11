@@ -1,2 +1,3 @@
 "Test text"
 "Test commit vs code message"
+"Test proper commit message"
